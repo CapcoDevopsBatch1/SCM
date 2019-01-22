@@ -9,4 +9,4 @@
  - Tagging
  - Git Logs
  - Handling Merge Scenarios o Revert Scenarios
- - Release Branches Scenarios
+ - Release Branches Scenarios.
